@@ -32,7 +32,7 @@
     "singleQuote": true,
     "trailingComma": "es5"
   },
-  "name": "react-genie-emotion",
+  "name": "react-genie-with-emotion",
   "author": "kitze",
   "module": "dist/react-genie-emotion.esm.js",
   "devDependencies": {
