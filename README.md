@@ -185,12 +185,7 @@ Animations for using react\-genie with emotion
       <strong><a href="https://kraken.io/?ref=kitze%2Freact-genie-emotion">Kraken.io</a></strong><br>
       We optimize your images, to save you bandwidth, make your websites faster, make your customers less frustrated, and reduce your CDN costs.
     </td>
-    <td width="33%" valign="top">
-      <a href="https://watasu.io/?utm_source=pwnwatch&amp;utm_medium=sponsor&amp;utm_campaign=sidebar&amp;ref=kitze%2Freact-genie-emotion"><img src="https://media.gifs.so/sponsors/kitze-io/watasu.png" width="40" alt="WATASU logo"></a><br>
-      <strong><a href="https://watasu.io/?utm_source=pwnwatch&amp;utm_medium=sponsor&amp;utm_campaign=sidebar&amp;ref=kitze%2Freact-genie-emotion">WATASU</a></strong><br>
-      Hosting for your vibe-coded app
-    </td>
-    <td width="33%" valign="top">
+    <td width="67%" colspan="2" valign="top">
       <strong><a href="https://www.kitze.io/sponsors?ref=kitze%2Freact-genie-emotion">Your product here</a></strong><br>
       Reach developers in every kitze repo.
     </td>
